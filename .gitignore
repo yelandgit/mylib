@@ -1,3 +1,18 @@
+# Visual Studio
+packages/
+packages~/
+TestTemp/
+Release/
+Debug/
+ipch/
+bin/
+x64/
+.vs/
+
+*.user
+*.aps
+*.db
+
 # Prerequisites
 *.d
 
